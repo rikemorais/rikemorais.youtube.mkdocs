@@ -1,4 +1,6 @@
 site_name: Plataforma de Documentação
 nav:
-  - 'index.md'
-  - 'sobre.md'
+  - Início: 'index.md'
+  - 'Sobre':
+    - 'Exemplo': 'exemplo.md'
+    - 'Teste': 'teste.md'
