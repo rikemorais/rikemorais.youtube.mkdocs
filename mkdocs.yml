@@ -1,1 +1,4 @@
-site_name: MkDocs
+site_name: Plataforma de Documentação
+nav:
+  - 'index.md'
+  - 'sobre.md'
